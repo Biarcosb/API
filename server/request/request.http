@@ -1,0 +1,12 @@
+
+###
+POST   http://localhost:3000/user
+Content-Type: application/json 
+{
+    "titulo":"Capitan América",
+    "autor":"Jogn Byrne",
+    "fecha_publicacion": "02282013",
+    "genero":"Novela gráfica",
+    "valor_COP": "35000",
+    "paginas": "200"
+}
